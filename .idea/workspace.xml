@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c47e772d-8ecd-4662-b173-6c82e0c84a1f" name="Default Changelist" comment="" />
+    <list default="true" id="c47e772d-8ecd-4662-b173-6c82e0c84a1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fossilia/Assignment5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fossilia/DirectedGraphCreator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -84,6 +88,7 @@
       <workItem from="1582957021279" duration="1309000" />
       <workItem from="1582993177747" duration="892000" />
       <workItem from="1585444096963" duration="55000" />
+      <workItem from="1589159674327" duration="150000" />
     </task>
     <servers />
   </component>
