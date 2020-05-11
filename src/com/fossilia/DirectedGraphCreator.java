@@ -18,7 +18,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class Assignment5 extends JFrame implements java.io.Serializable{
+public class DirectedGraphCreator extends JFrame implements java.io.Serializable{
 
     //final values for distinguishing the current mode
     public final int ADDNODE = 0;
@@ -42,7 +42,7 @@ public class Assignment5 extends JFrame implements java.io.Serializable{
     int OGmode;
     String OGtext;
 
-    public Assignment5(){
+    public DirectedGraphCreator(){
         setTitle("Graph Draw");
         setSize(700, 750);
 
@@ -70,7 +70,7 @@ public class Assignment5 extends JFrame implements java.io.Serializable{
     }
 
     public static void main(String[] args) {
-	    new Assignment5();
+	    new DirectedGraphCreator();
     }
 
     public class DrawPanel extends JPanel implements MouseListener, ActionListener{
